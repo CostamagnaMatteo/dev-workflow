@@ -1,0 +1,14 @@
+{
+  "name": "matteo-tools",
+  "owner": {
+    "name": "Matteo Costamagna"
+  },
+  "description": "Plugin personali per il flusso di sviluppo con Claude Code.",
+  "plugins": [
+    {
+      "name": "dev-workflow",
+      "source": "./plugins/dev-workflow",
+      "description": "Flusso strutturato epica → task → piano → commit per qualsiasi stack, configurato da DEV-WORKFLOW.md."
+    }
+  ]
+}

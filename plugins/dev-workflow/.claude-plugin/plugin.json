@@ -1,0 +1,15 @@
+{
+  "name": "dev-workflow",
+  "version": "0.2.0",
+  "description": "Flusso strutturato epica → task → piano → commit, indipendente dallo stack: il progetto si descrive in DEV-WORKFLOW.md (aree, comandi, convenzioni). Scomposizione delle epiche, piani a passi atomici e ripresa del lavoro tra una sessione e l'altra.",
+  "author": {
+    "name": "Matteo Costamagna"
+  },
+  "keywords": [
+    "workflow",
+    "planning",
+    "task-breakdown",
+    "stacked-pr",
+    "resume"
+  ]
+}
